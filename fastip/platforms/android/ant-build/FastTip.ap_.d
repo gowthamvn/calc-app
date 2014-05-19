@@ -1,0 +1,26 @@
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\ant-build\FastTip.ap_ \
+ : C:\Users\Gowtham VN\myapp\fastip\platforms\android\res\drawable\icon.png \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\res\drawable-hdpi\icon.png \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\res\drawable-ldpi\icon.png \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\res\drawable-mdpi\icon.png \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\res\drawable-xhdpi\icon.png \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\res\values\strings.xml \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\res\xml\config.xml \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\ant-build\res\drawable\icon.png \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\ant-build\res\drawable-hdpi\icon.png \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\ant-build\res\drawable-ldpi\icon.png \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\ant-build\res\drawable-mdpi\icon.png \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\assets\www \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\assets\_where-is-www.txt \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\assets\www\cordova.js \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\assets\www\cordova_plugins.js \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\assets\www\css \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\assets\www\img \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\assets\www\index.html \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\assets\www\js \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\assets\www\css\index.css \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\assets\www\css\styles.css \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\assets\www\img\logo.png \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\assets\www\js\index.js \
+C:\Users\Gowtham VN\myapp\fastip\platforms\android\ant-build\AndroidManifest.xml \
